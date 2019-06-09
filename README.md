@@ -23,5 +23,6 @@
   ![战斗场景](https://github.com/1614080902411/Game-BeatTheThief/blob/master/%E3%80%8A%E6%89%93%E6%AD%BB%E5%B0%8F%E5%81%B7%E3%80%8B-%E6%B8%B8%E6%88%8F%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2.png)
   
   <br/>
+  
   **最后一句：这个游戏很难控制，我们把游戏设定得有些难，npc很灵活，而且很多，速度很快。**<br/>
   <br/>
